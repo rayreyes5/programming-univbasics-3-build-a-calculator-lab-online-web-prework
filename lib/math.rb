@@ -1,10 +1,10 @@
 def addition(num1, num2)
 
-end num1 addition num2 
+end num1 additon num2
 
 def subtraction(num1, num2)
 
-end
+end 
 
 def division(num1, num2)
 
